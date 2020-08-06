@@ -1,0 +1,7 @@
+This folder contains files from the MagicMirror repo that should be configured by a user (me)
+# Files i configured and their original paths relative to "MagicMirror/" folder
+
+["index.html": "index.html"] - added a class to support a custom position i added in custom css
+["config.js": "config/config.js"] - the main config file for the mirror
+["custom.css": "css/custom.css"] - contains custom settings for the mirror's css, mainly about different modules
+
