@@ -63,7 +63,7 @@
 		"stylelint-prettier": "^1.1.2"
 	},
 	"optionalDependencies": {
-		"electron": "^6.1.7"
+		"electron": "^11.5.0"
 	},
 	"dependencies": {
 		"colors": "^1.1.2",
