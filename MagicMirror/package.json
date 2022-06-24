@@ -50,7 +50,7 @@
 		"eslint-plugin-prettier": "^3.1.4",
 		"http-auth": "^3.2.3",
 		"husky": "^4.2.5",
-		"jsdom": "^11.6.2",
+		"jsdom": "^16.5.0",
 		"mocha": "^7.1.2",
 		"mocha-each": "^2.0.1",
 		"mocha-logger": "^1.0.6",
